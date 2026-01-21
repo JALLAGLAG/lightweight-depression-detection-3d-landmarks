@@ -13,22 +13,22 @@ The proposed framework investigates video-based depression screening using 3D fa
 ## Repository Structure
 ├── preprocessing/                                                                                                                                                                        
 │ ├── extract_landmarks.py                                                                                                                                                                
-│ ├── build_pseudo_images.py
-│ └── normalization.py
-│
-├── models/
-│ ├── cnn_lstm_model.py
-│ └── train_model.py
-│
-├── evaluation/
-│ ├── metrics.py
-│ └── evaluate_model.py
-│
-├── configs/
-│ └── training_config.yaml
-│
-├── requirements.txt
-└── README.md
+│ ├── build_pseudo_images.py                                                                                                                                                              
+│ └── normalization.py                                                                                                                                                                    
+│                                                                                                                                                                                         
+├── models/                                                                                                                                                                               
+│ ├── cnn_lstm_model.py                                                                                                                                                                   
+│ └── train_model.py                                                                                                                                                                      
+│                                                                                                                                                                                         
+├── evaluation/                                                                                                                                                                           
+│ ├── metrics.py                                                                                                                                                                          
+│ └── evaluate_model.py                                                                                                                                                                   
+│                                                                                                                                                                                         
+├── configs/                                                                                                                                                                              
+│ └── training_config.yaml                                                                                                                                                                
+│                                                                                                                                                                                         
+├── requirements.txt                                                                                                                                                                      
+└── README.md                                                                                                                                                                             
 
 
 ## Method Summary
