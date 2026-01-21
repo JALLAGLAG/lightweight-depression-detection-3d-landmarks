@@ -4,7 +4,7 @@
 This repository contains the source code and preprocessing scripts associated with the following article:
 
 Lightweight Depression Detection Using 3D Facial Landmark Pseudo-Images and CNN-LSTM on DAIC-WOZ and E-DAIC  
-Authors: [Your names]  
+Authors: [Jallaglag achraf and al. ]  
 Journal: Biomedinformatics (MDPI)  
 DOI: to be added upon online publication  
 
@@ -83,11 +83,11 @@ All scripts required to reproduce the preprocessing, training, and evaluation pi
 If you use this code, please cite:
 
 
-@article{sabri2024depression,
+@article{sabri2026depression,
 title = {Lightweight Depression Detection Using 3D Facial Landmark Pseudo-Images and CNN-LSTM},
 author = {Jallaglag achraf and al.},
 journal = {Biomedinformatics},
-year = {2024},
+year = {2026},
 doi = {TO_BE_ADDED}
 }
 
