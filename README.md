@@ -11,8 +11,8 @@ DOI: to be added upon online publication
 The proposed framework investigates video-based depression screening using 3D facial landmarks, transformed into pseudo-image representations and processed via a CNN–LSTM architecture.
 
 ## Repository Structure
-├── preprocessing/
-│ ├── extract_landmarks.py
+├── preprocessing/                                                                                                                                                                        
+│ ├── extract_landmarks.py                                                                                                                                                                
 │ ├── build_pseudo_images.py
 │ └── normalization.py
 │
