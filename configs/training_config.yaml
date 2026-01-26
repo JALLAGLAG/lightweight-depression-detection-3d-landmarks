@@ -1,0 +1,26 @@
+# Choose dataset: daic or edaic
+dataset: daic
+
+daic:
+  data_root: "/path/to/DAIC-WOZ"
+  landmarks_folder: "CLNF_features3D"
+  pseudo_images_folder: "pseudo_images"
+  split_seed: 42
+
+edaic:
+  data_root: "/path/to/E-DAIC"
+  openface_folder: "OpenFace2.1.0"
+  processed_folder: "processed_edaic"
+  split_seed: 42
+
+training:
+  lr: 1e-4
+  batch_size: 32
+  epochs: 50
+  dropout: 0.5
+  device: "cuda"  # or "cpu"
+  focal_loss_gamma: 2.0
+  threshold_search_steps: 100
+  num_workers: 4
+  max_frames: 16
+  resize: 224
