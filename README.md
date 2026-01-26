@@ -13,7 +13,7 @@ The proposed framework investigates video-based depression screening using 3D fa
 ## Repository Structure
 ├── preprocessing/                                                                                                                                                                        
 │ ├── extract_landmarks.py                                                                                                                                                                
-│ ├── build_pseudo_images.py                                                                                                                                                              
+│ ├── build_pseudo_images.py                                                                                                                                                     
 │ └── normalization.py                                                                                                                                                                    
 │                                                                                                                                                                                         
 ├── models/                                                                                                                                                                               
