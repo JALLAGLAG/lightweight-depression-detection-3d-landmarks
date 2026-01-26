@@ -20,7 +20,7 @@ The proposed framework investigates video-based depression screening using 3D fa
 │ ├── cnn_lstm_model.py                                                                                                                                                                   
 │ ├── train_model.py  
 
-  └── losses.py.py
+│ └── losses.py.py
 
 │                                                                                                                                                                                         
 ├── evaluation/                                                                                                                                                                           
